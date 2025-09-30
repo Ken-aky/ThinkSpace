@@ -1,5 +1,7 @@
 # Minimalistic Notes App (MERN)
 
+👉 **Live Demo:** [https://thinkspace-1.onrender.com](https://thinkspace-1.onrender.com)
+
 A beginner-friendly full-stack web application to create, update, and delete notes with title and description.  
 The project demonstrates how to design and connect a **REST API** with a modern frontend while keeping the architecture simple and clear.
 
